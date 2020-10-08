@@ -1,3 +1,5 @@
+"nfc_device_not_compatible" = "Mist, dein Gerät ist nicht kompatibel!\n\nNur iPhone 7 oder neuere Geräte unterstützen NFC. iPhone 6, 6s, 5s und SE unterstützen Apple Pay, aber Apple hat NFC den Entwicklern nicht zur Verfügung gestellt. Außerdem habe ich beim Einreichen der App einen Fehler gemacht. Die App sollte auf älteren Geräten und iPads nicht herunterladbar sein, aber das kann ich leider nicht mehr ändern.\n\nBitte sieh davon ab schlechte Bewertungen im AppStore zu schreiben, wenn dein Gerät nicht kompatibel ist.\n\nDanke!";
+
 "nfc_general_ok" = "Ok";
 "nfc_general_cancel" = "Abbrechen";
 
