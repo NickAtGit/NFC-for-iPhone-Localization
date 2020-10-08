@@ -141,7 +141,7 @@
 "nfc_read_help_compatibility_mode_title" = "What is the compatibility mode?";
 "nfc_read_help_compatibility_mode_description" = "When you activate the compatibility mode the tag is read in a different way. If you have trouble reading a tag try the compatibility mode.";
 "nfc_read_help_ndef_title" = "What is NDEF?";
-"nfc_read_help_ndef_description" = "NDEF stands for \"NFC Forum Data Exchange Format\". It defines an encapsulated message format which is required for data exchange with NFC Tags.";
+"nfc_read_help_ndef_description" = "NDEF stands for \"NFC Data Exchange Format\". It defines an encapsulated message format which is required for data exchange with NFC Tags.";
 
 "nfc_read_help_credit_card_title" = "I want to read my credit card";
 "nfc_read_help_credit_card_description" = "This feature is not supported by iOS and will probably not be released by Apple in the future.";

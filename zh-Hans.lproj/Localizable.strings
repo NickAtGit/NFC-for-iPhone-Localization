@@ -1,61 +1,61 @@
 "nfc_general_ok" = "好的";
 "nfc_general_cancel" = "取消";
 
-"nfc_reader_title" = "NFC阅读器";
-"nfc_writer_title" = "NFC作家";
-"nfc_expert_title" = "NFC专家";
+"nfc_reader_title" = "NFC读取";
+"nfc_writer_title" = "NFC写入";
+"nfc_expert_title" = "NFC专业模式";
 "nfc_settings_title" = "设置";
 "nfc_create_vcard_title" = "创建名片";
 "nfc_create_weblink_title" = "创建网站链接";
-"nfc_create_location_title" = "创建位置";
+"nfc_create_location_title" = "创建地理位置";
 "nfc_create_wifi_title" = "创建无线网络";
 "nfc_create_text_title" = "创建文本";
 "nfc_create_sms_title" = "创建短信";
 "nfc_create_tel_title" = "创建电话号码";
-"nfc_create_shortcut_title" = "创建快捷方式";
-"nfc_read_help_title" = "阅读帮助";
-"nfc_write_help_title" = "写帮助";
-"nfc_licenses_title" = "执照";
-"nfc_pro_title" = "溢价";
+"nfc_create_shortcut_title" = "创建快捷指令";
+"nfc_read_help_title" = "读取帮助";
+"nfc_write_help_title" = "写入帮助";
+"nfc_licenses_title" = "许可证";
+"nfc_pro_title" = "高级版";
 "nfc_donation_title" = "捐赠";
 
 
-"nfc_help_title" = "帮忙";
+"nfc_help_title" = "帮助";
 
 "nfc_delete_all_tags_title" = "警告";
-"nfc_delete_all_tags_message" = "您即将删除所有保存的记录。注意：您可以通过从右向左滑动记录来单独删除。";
+"nfc_delete_all_tags_message" = "您即将删除所有保存的记录。注意：您可以通过从右向左滑动记录来删除单条记录。";
 "nfc_delete_all_tags_button_delete_title" = "删除";
 "nfc_delete_all_tags_button_cancel_title" = "取消";
 
 "nfc_vcard_error" = "无法读取VCard--检查你的格式。";
 
-"nfc_scan_hint_1" = "握住iPhone背面上方的NFC标签。";
-"nfc_scan_hint_2" = "您的NFC标签格式正确吗？检查帮助部分";
+"nfc_scan_hint_1" = "将NFC标签靠近iPhone后侧上方。";
+"nfc_scan_hint_2" = "您的NFC标签格式正确吗？查看帮助部分";
 "nfc_scan_hint_3" = "不支持信用卡、护照或公交卡!";
 
 "nfc_write_hint" = "将你的iPhone靠近可写入的NFC标签来更新。";
 "nfc_write_lock_hint" = "锁定NFC标签。\n此操作无法撤销。";
-"nfc_write_multiple_tags_error" = "找到多个NFC标签。请只提交一个NFC标签。";
+"nfc_write_multiple_tags_error" = "找到多个NFC标签。请只提供一个NFC标签。";
 "nfc_write_determine_ndef_status_error" = "无法确定NDEF状态。请再试一次。";
-"nfc_write_tag_not_writable_error" = "NFC-Tag是不可写的。";
-"nfc_write_capacity_too_small_error" = "NFC-Tag容量太小了！要求：%d Bytes\nNFC-Tag容量：%d Bytes。";
-"nfc_write_update_failed_error" = "更新NFC-Tag失败。请重试。";
-"nfc_write_tag_not_ndef_formatted_error" = "NFC-Tag不是NDEF格式的。";
+"nfc_write_tag_not_writable_error" = "NFC标签是不可写的。";
+"nfc_write_capacity_too_small_error" = "NFC标签容量太小了！要求：%d Bytes\nNFC标签容量：%d Bytes。";
+"nfc_write_update_failed_error" = "更新NFC标签失败。请重试。";
+"nfc_write_tag_not_ndef_formatted_error" = "NFC标签不是NDEF格式的。";
 "nfc_write_lock_success" = "锁定成功。";
 "nfc_write_lock_failed" = "锁定失败。请再试一次。";
 
-"nfc_write_succes" = "写作是成功的";
+"nfc_write_succes" = "写入成功";
 "nfc_write_add_tag_title" = "新的NDEF信息";
 "nfc_write_add_tag_description" = "请选择信息类型";
 
-"nfc_write_button_title" = "撰写";
-"nfc_read_button_title" = "扫瞄";
+"nfc_write_button_title" = "写入";
+"nfc_read_button_title" = "扫描";
 "nfc_save_button_title" = "保存";
-"nfc_choose_contact_button_title" = "选择联系方式";
+"nfc_choose_contact_button_title" = "选择联系人";
 
-"nfc_contact_cell_title" = "联系信息";
+"nfc_contact_cell_title" = "联系人";
 "nfc_map_cell_title" = "地理位置";
-"nfc_text_cell_title" = "案文";
+"nfc_text_cell_title" = "文本";
 "nfc_weblink_cell_title" = "网站链接";
 "nfc_wifi_cell_title" = "无线网络";
 "nfc_sms_cell_title" = "短信";
@@ -66,129 +66,129 @@
 "nfc_create_location_action_title" = "地理位置";
 "nfc_create_weblink_action_title" = "网站链接";
 "nfc_create_wifi_action_title" = "无线网络";
-"nfc_create_text_action_title" = "案文";
+"nfc_create_text_action_title" = "文本";
 "nfc_create_sms_action_title" = "短信";
 "nfc_create_tel_action_title" = "电话号码";
-"nfc_create_shortcut_action_title" = "捷径";
+"nfc_create_shortcut_action_title" = "快捷指令";
 "nfc_cancel_action_title" = "取消";
 
 "nfc_create_tel_placeholder" = "输入电话号码";
 "nfc_create_sms_recipiant_placeholder" = "输入电话号码";
 "nfc_create_sms_message_placeholder" = "输入信息";
-"nfc_create_shortcut_placeholder" = "输入快捷键名称";
+"nfc_create_shortcut_placeholder" = "输入快捷指令名称";
 "nfc_create_shortcut_parameter_placeholder" = "输入参数(可选)";
-"nfc_create_shortcut_parameter_pasteboard_placeholder" = "使用粘贴板";
+"nfc_create_shortcut_parameter_pasteboard_placeholder" = "使用剪贴板";
 
-"nfc_create_shortcut_use_pasteboard_title" = "使用粘贴板";
+"nfc_create_shortcut_use_pasteboard_title" = "使用剪贴板";
 
-"nfc_map_detail_open_in_maps_annotation_title" = "iPhone的NFC定位功能";
+"nfc_map_detail_open_in_maps_annotation_title" = "来自本App的地理位置";
 
 //SETTINGS
 "nfc_settings_theme_section_header" = "主题";
 "nfc_settings_pro_features_section_header" = "高级功能";
 "nfc_settings_pro_features_adfree_title" = "免广告购买";
-"nfc_settings_pro_features_description" = "通过购买无广告版本，您将支持NFC for iPhone的进一步发展。本产品只能购买一次。您可以在任何时候恢复购买。";
+"nfc_settings_pro_features_description" = "通过购买无广告版本，您将支持本应用的进一步发展。该产品只能购买一次。您可以在任何时候恢复购买。";
 "nfc_settings_pro_features_restore_button_title" = "恢复";
 "nfc_settings_donations_section_header" = "捐赠给开发商";
 "nfc_settings_donate_donut_title" = "捐赠一个甜甜圈 🍩";
 "nfc_settings_donate_smoothie_title" = "捐赠一杯冰沙 🍹";
 "nfc_settings_donate_meal_title" = "捐赠午餐 🍛";
-"nfc_settings_donate_description" = "捐赠支持iPhone的NFC进一步发展。本产品可多次购买。";
+"nfc_settings_donate_description" = "捐赠支持本App进一步发展。该产品可多次购买。";
 "nfc_settings_purchase_success_title" = "谢谢你！";
 "nfc_settings_purchase_failed_title" = "错误";
-"nfc_settings_purchase_adfree_success_description" = "购买成功。请现在重新启动应用程序。";
+"nfc_settings_purchase_adfree_success_description" = "购买成功。请重新启动本应用。";
 "nfc_settings_purchase_donation_success_description" = "购买成功。谢谢您的捐赠。";
-"nfc_settings_purchase_app_icon_success_description" = "购买成功。应用图标现在会激活。";
-"nfc_settings_purchase_restore_success_description" = "恢复成功。请现在重新启动应用程序。";
+"nfc_settings_purchase_app_icon_success_description" = "购买成功。应用图标会现在激活。";
+"nfc_settings_purchase_restore_success_description" = "恢复成功。请重新启动本应用。";
 "nfc_settings_purchase_nothing_to_restore_description" = "该产品从未购买过。";
 "nfc_settings_indefinite_read_section_header" = "NFC读取设置";
-"nfc_settings_compatibility_mode_title" = "兼容性模式";
-"nfc_settings_start_read_on_startup_title" = "在应用程序开始时阅读";
-"nfc_settings_open_links_on_read_title" = "阅读时打开网页链接";
-"nfc_settings_run_shortcut_on_read_title" = "阅读时运行快捷方式";
-"nfc_settings_indefinite_read_title" = "无限阅读";
+"nfc_settings_compatibility_mode_title" = "兼容模式";
+"nfc_settings_start_read_on_startup_title" = "在应用程序启动时读取";
+"nfc_settings_open_links_on_read_title" = "读取时打开网页链接";
+"nfc_settings_run_shortcut_on_read_title" = "读取时运行快捷指令";
+"nfc_settings_indefinite_read_title" = "无限读取模式";
 "nfc_settings_indefinite_read_section_footer" = "你可以读取任意多的NFC标签，直到你点击 \"完成\"。";
 
-"nfc_settings_help_section_header" = "帮忙";
-"nfc_settings_help_read_title" = "阅览";
-"nfc_settings_help_write_title" = "撰写";
+"nfc_settings_help_section_header" = "帮助";
+"nfc_settings_help_read_title" = "读取";
+"nfc_settings_help_write_title" = "写入";
 
 "nfc_settings_promotion_section_header" = "购买NFC标签(联盟链接)";
 "nfc_settings_promotion_tag_title" = "NFC标签";
-"nfc_settings_promotion_section_footer" = "通过以上链接购买NFC标签，我将获得一小部分不变的购买价格，作为对iPhone NFC发展的支持。";
+"nfc_settings_promotion_section_footer" = "通过以上链接购买NFC标签，我将获得一小部分不变的购买价格，作为对本应用发展的支持。";
 
 "nfc_settings_promotion_amazon_link" = "https://www.amazon.com/gp/product/B075RXBVKM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075RXBVKM&linkCode=as2&tag=1337420050185-20&linkId=f7ad3cb54bfa933430af0b402a65df40";
 
 "nfc_settings_more_title" = "更多";
-"nfc_settings_website_title" = "访问我的网站";
+"nfc_settings_website_title" = "访问开发者网站";
 
-"nfc_settings_rate_app_title" = "给这个应用程序评分";
-"nfc_settings_rate_app_alert_question_title" = "你喜欢iPhone的NFC吗？";
+"nfc_settings_rate_app_title" = "给本应用程序评分";
+"nfc_settings_rate_app_alert_question_title" = "你喜欢本应用吗？";
 "nfc_settings_rate_app_alert_question_description" = "如果是，请花一点时间告诉其他用户你喜欢什么，如果不喜欢，请通过电子邮件告诉我哪些地方我可以做得更好。谢谢您的支持。";
-"nfc_settings_send_email_question_title" = "你想告诉我你在iPhone上使用NFC的问题吗？";
+"nfc_settings_send_email_question_title" = "你想告诉我你在App中遇到的问题吗？";
 "nfc_settings_rate_app_alert_answer_yes" = "是的";
 "nfc_settings_rate_app_alert_answer_no" = "没有";
 "nfc_settings_help_translating_title" = "帮助翻译应用程序";
 "nfc_settings_licenses_title" = "许可证";
 "nfc_settings_licenses_font_section_header" = "字体";
-"nfc_settings_3rd_party_libs_section_header" = "第三方图书馆";
+"nfc_settings_3rd_party_libs_section_header" = "第三方库";
 "nfc_settings_licenses_icons_section_header" = "图标";
 
 "nfc_settings_privacy_policy_title" = "私隐政策";
 "nfc_settings_ad_consent_title" = "广告审批";
 
 //HELP
-"nfc_read_help_compatibility_mode_title" = "什么是兼容性模式？";
-"nfc_read_help_compatibility_mode_description" = "当您激活兼容性模式时，标签将以不同的方式读取。如果您在读取标签时遇到困难，请尝试兼容模式。";
+"nfc_read_help_compatibility_mode_title" = "什么是兼容模式？";
+"nfc_read_help_compatibility_mode_description" = "当您启用兼容模式时，标签将以不同的方式读取。如果您在读取标签时遇到困难，请尝试兼容模式。";
 "nfc_read_help_ndef_title" = "什么是NDEF？";
-"nfc_read_help_ndef_description" = "NDEF是 \"NFC论坛数据交换格式\" 的缩写。它定义了与NFC标签进行数据交换所需的封装信息格式。";
+"nfc_read_help_ndef_description" = "NDEF是 \"NFC数据交换格式\" 的缩写。它定义了与NFC标签进行数据交换所需的封装信息格式。";
 
 "nfc_read_help_credit_card_title" = "我想阅读我的信用卡";
 "nfc_read_help_credit_card_description" = "iOS不支持这一功能，未来苹果可能不会发布这一功能。";
 
 "nfc_read_help_other_card_title" = "我想读出我的公交车票/食堂卡或类似的东西。";
-"nfc_read_help_other_card_description" = "iOS支持这个功能，但这个应用不支持（还没有）。在很多情况下，这种卡片上只有一个长长的数字，最终用户无法做太多的事情。";
+"nfc_read_help_other_card_description" = "iOS支持这个功能，但本应用尚不支持。在很多情况下，这种卡片上只有一个长长的数字，最终用户无法做太多的事情。";
 
-"nfc_read_help_no_read_title" = "当我拿着NFC标签到iPhone时，什么都没有发生。";
-"nfc_read_help_no_read_description" = "确保您的 NFC 标签包含可读数据。您的 NFC 标签必须是 NDEF 格式的，本应用程序才能读取。您钱包中的大多数卡片可能不是NDEF格式的，并且不会被这个应用程序识别。但你可以通过亚马逊联盟链接在此应用中订购NFC标签。";
+"nfc_read_help_no_read_title" = "当我拿着NFC标签靠近iPhone时，什么都没有发生。";
+"nfc_read_help_no_read_description" = "确保您的 NFC 标签包含可读数据。您的 NFC 标签必须是 NDEF 格式的，才能被本应用程序读取。您钱包中的大多数卡片可能不是NDEF格式的，并且不会被这个应用程序识别。你可以通过亚马逊联盟链接在此应用中订购NFC标签。";
 
 "nfc_write_help_which_tags" = "我需要哪些NFC标签？";
-"nfc_write_help_which_description" = "恩智浦NTag芯片最适合。这些标签有不同的版本。NTAG 213、215和216。主要区别在于内存容量和价格。对于用户来说，这些标签的预格式化对于 NDEF 非常重要。下面列出了不同的标签和它们各自的内存容量。\n213: 180 Byte（NDEF: 137 Byte)\n215: 540 Byte（NDEF：480 Byte)\n216: 924 Byte（NDEF: 868  Byte)\n购买时，请确保购买内存充足的NFC标签。您可以通过联盟链接购买相应的NFC标签来支持iPhone的NFC。广告中的标签具有最大的存储容量，适用于所有应用。";
+"nfc_write_help_which_description" = "恩智浦NTag芯片最适合。这些标签有不同的版本。NTAG 213、215和216。主要区别在于内存容量和价格。对于用户来说，这些标签的预格式化对于 NDEF 非常重要。下面列出了不同的标签和它们各自的内存容量。\n213: 180 Byte（NDEF: 137 Byte)\n215: 540 Byte（NDEF：480 Byte)\n216: 924 Byte（NDEF: 868  Byte)\n购买时，请确保购买内存充足的NFC标签。您可以通过联盟链接购买相应的NFC标签来支持本应用。广告中的标签具有最大的存储容量，适用于所有场景。";
 
-"nfc_write_help_whats_shortcuts_section_header" = "什么是捷径应用？";
-"nfc_write_help_whats_shortcuts_title" = "快捷键用户指南";
+"nfc_write_help_whats_shortcuts_section_header" = "什么是快捷指令App？";
+"nfc_write_help_whats_shortcuts_title" = "快捷指令使用手册";
 "nfc_write_help_whats_shortcuts_link" = "https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios";
 
-"nfc_write_help_shortcuts_title" = "如何用NFC-Tags控制快捷键App？";
-"nfc_write_help_shortcuts_description" = "在NFC Writer界面，从菜单中选择 \"快捷方式 \"并输入快捷方式的名称。快捷方式的名称必须与快捷方式应用中的名称完全相同。注意大写和小写。你也可以选择添加一个参数或者使用剪贴板来写快捷方式。一旦你把快捷方式写到NFC标签上，你可以在任何时候读取标签，而无需打开NFC for iPhone。唯一的要求是你的iPhone必须是解锁的。";
+"nfc_write_help_shortcuts_title" = "如何用NFC-Tags控制快捷指令App？";
+"nfc_write_help_shortcuts_description" = "在NFC写入界面，从菜单中选择 \"快捷指令 \"并输入快捷指令的名称。快捷指令的名称必须与快捷指令应用中的名称完全相同。注意大写和小写。你也可以选择添加一个参数或者使用剪贴板来写快捷方式。一旦你把快捷指令写到NFC标签上，你可以在任何时候读取标签，而无需打开本应用。唯一的要求是你的iPhone必须是解锁的。";
 
-"nfc_theme_blue" = "蓝";
+"nfc_theme_blue" = "蓝色";
 "nfc_theme_orange" = "橙色";
-"nfc_theme_green" = "绿色环保";
-"nfc_theme_pink" = "粉红色的";
-"nfc_theme_yellow" = "黄";
+"nfc_theme_green" = "绿色";
+"nfc_theme_pink" = "粉色";
+"nfc_theme_yellow" = "黄色";
 
-"nfc_settings_app_icon_title" = "应用图标";
-"nfc_settings_choose_app_icon_title" = "选择应用图标";
+"nfc_settings_app_icon_title" = "App图标";
+"nfc_settings_choose_app_icon_title" = "选择App图标";
 "nfc_app_icon_section_free_title" = "免费";
-"nfc_app_icon_section_premium_title" = "溢价";
+"nfc_app_icon_section_premium_title" = "高级";
 "nfc_appicon_standard" = "标准";
-"nfc_appicon_dark" = "黝黑";
-"nfc_appicon_pink" = "粉红色的";
+"nfc_appicon_dark" = "暗黑";
+"nfc_appicon_pink" = "粉红";
 "nfc_appicon_dark_rainbow" = "黑虹";
 "nfc_appicon_rainbow" = "彩虹";
 "nfc_appicon_flag_rastafari" = "拉斯特法里";
-"nfc_purchase_app_icon_title" = "应用程序图标";
-"nfc_purchase_app_icon_description" = "通过购买应用程序图标，您将支持iPhone的NFC进一步发展。本产品只能购买一次。您可以在任何时候恢复购买。";
+"nfc_purchase_app_icon_title" = "App图标";
+"nfc_purchase_app_icon_description" = "通过购买App图标，您将支持本App的进一步发展。该产品只能购买一次。您可以在任何时候恢复购买。";
 
 //Expert Mode
-"nfc_expert_button_title" = "函数";
+"nfc_expert_button_title" = "功能";
 
-"nfc_expert_mode_title" = "选择一个函数";
-"nfc_expert_mode_title_description" = "警告。某些函数可能会导致您的标签上的数据丢失。";
-"nfc_expert_mode_read_memory_title" = "读取内存";
-"nfc_expert_mode_empty_ndef_title" = "格式为 NDEF";
-"nfc_expert_mode_format_title" = "格式";
+"nfc_expert_mode_title" = "选择一个功能";
+"nfc_expert_mode_title_description" = "警告。某些功能可能会导致您的标签上的数据丢失。";
+"nfc_expert_mode_read_memory_title" = "读取数据";
+"nfc_expert_mode_empty_ndef_title" = "格式化为 NDEF";
+"nfc_expert_mode_format_title" = "格式化";
 
 "nfc_tag_expert_section_header_tag_info" = "标签信息";
 "nfc_tag_expert_section_header_tag_header" = "标签头";
@@ -208,12 +208,12 @@
 "nfc_expert_header_minor_version" = "小版本:";
 "nfc_expert_header_storage" = "存储大小:";
 "nfc_expert_header_protocol_type" = "协议类型:";
-"nfc_expert_header_raw" = "原值:";
+"nfc_expert_header_raw" = "原始值:";
 
 "nfc_override_alert_title" = "警告！";
 "nfc_override_alert_message" = "此操作会覆盖标签上存储的所有数据。";
 
-"nfc_error_tag_type_not_supported" = "错误: 标记类型尚未被支持。请在设置中选择兼容性模式并再次尝试";
+"nfc_error_tag_type_not_supported" = "错误: 尚不支持该NFC标签类型。请在设置中选择兼容模式并再次尝试";
 "nfc_read_error_could_not_read_version" = "错误: 无法读取版本。请再试一次";
 "nfc_read_error_could_not_read_data" = "错误: 无法读取数据。请再试一次";
 "nfc_write_error_empty_ndef" = "错误: 无法写入空的NDEF信息。请再试一次";
