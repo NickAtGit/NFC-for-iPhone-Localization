@@ -36,7 +36,7 @@
 "nfc_scan_hint_3" = "Credit Cards, Passports or Public Transport Cards are not supported!";
 
 "nfc_write_hint" = "Hold your iPhone near a writable NFC tag to update.";
-"nfc_write_lock_hint" = "Lock NFC Tag.\nThis operation can't be undone.";
+"nfc_write_lock_hint" = "Lock NFC Tag.\nThis operation can NOT be undone.";
 "nfc_write_multiple_tags_error" = "More than one NFC-Tags found. Please present only one NFC-Tag.";
 "nfc_write_determine_ndef_status_error" = "Failed to determine NDEF status. Please try again.";
 "nfc_write_tag_not_writable_error" = "NFC-Tag is not writable.";
@@ -169,6 +169,7 @@
 "nfc_theme_green" = "Green";
 "nfc_theme_pink" = "Pink";
 "nfc_theme_yellow" = "Yellow";
+"nfc_theme_spring" = "Spring";
 
 "nfc_settings_app_icon_title" = "App Icon";
 "nfc_settings_choose_app_icon_title" = "Choose App Icon";

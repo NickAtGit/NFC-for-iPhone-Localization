@@ -169,6 +169,7 @@
 "nfc_theme_green" = "绿色";
 "nfc_theme_pink" = "粉色";
 "nfc_theme_yellow" = "黄色";
+"nfc_theme_spring" = "弹簧";
 
 "nfc_settings_app_icon_title" = "App图标";
 "nfc_settings_choose_app_icon_title" = "选择App图标";

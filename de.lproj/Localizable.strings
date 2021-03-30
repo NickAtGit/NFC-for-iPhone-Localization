@@ -36,7 +36,7 @@
 "nfc_scan_hint_3" = "Kreditkarten, Reisepässe oder Nahverkehrskarten werden nicht unterstützt!";
 
 "nfc_write_hint" = "Halte die obere Rückseite deines iPhone in die Nähe eines beschreibbaren NFC-Tags";
-"nfc_write_lock_hint" = "NFC-Tag sperren.\nDieser Vorgang kann nicht rückgängig gemacht werden.";
+"nfc_write_lock_hint" = "NFC-Tag sperren.\nDieser Vorgang kann NICHT rückgängig gemacht werden.";
 "nfc_write_multiple_tags_error" = "Mehrere NFC Tags wurden gefunden. Bitte halte nur einen NFC Tag an dein iPhone";
 "nfc_write_determine_ndef_status_error" = "NDEF Status konnte nicht bestimmt werden. Bitte erneut versuchen.";
 "nfc_write_tag_not_writable_error" = "NFC-Tag ist nicht beschreibbar.";
@@ -169,6 +169,7 @@
 "nfc_theme_green" = "Grün";
 "nfc_theme_pink" = "Pink";
 "nfc_theme_yellow" = "Gelb";
+"nfc_theme_spring" = "Frühling";
 
 "nfc_settings_app_icon_title" = "App Icon";
 "nfc_settings_choose_app_icon_title" = "App Icon auswählen";
