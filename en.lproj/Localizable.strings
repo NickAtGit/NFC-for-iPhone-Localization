@@ -220,3 +220,10 @@
 "nfc_read_error_could_not_read_version" = "Error: Version could not be read. Please try again";
 "nfc_read_error_could_not_read_data" = "Error: Data could not be read. Please try again";
 "nfc_write_error_empty_ndef" = "Error: Empty NDEF message could not be written. Please try again";
+
+// QR
+"nfc_qr_title" = "QR Reader";
+"nfc_qr_found_title" = "QR code detected";
+"nfc_qr_create_writable_record_title" = "Save for NFC writing";
+"nfc_qr_copy_to_clipboard_title" = "Copy to clipboard";
+"nfc_qr_open_in_browser_title" = "Open in browser";

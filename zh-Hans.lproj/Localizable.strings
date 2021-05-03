@@ -220,3 +220,10 @@
 "nfc_read_error_could_not_read_version" = "错误: 无法读取版本。请再试一次";
 "nfc_read_error_could_not_read_data" = "错误: 无法读取数据。请再试一次";
 "nfc_write_error_empty_ndef" = "错误: 无法写入空的NDEF信息。请再试一次";
+
+//QR
+"nfc_qr_title" = "QR阅读器";
+"nfc_qr_found_title" = "检测到QR码";
+"nfc_qr_create_writable_record_title" = "保存为NFC写入";
+"nfc_qr_copy_to_clipboard_title" = "复制到剪贴板";
+"nfc_qr_open_in_browser_title" = "在浏览器中打开";

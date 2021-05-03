@@ -1,1 +1,2 @@
 "NSUserTrackingUsageDescription" = "Die App benutzt Google AdMob um dir Werbung anzuzeigen. Diese Werbung kann für dich persönlich zugeschnitten werden, wenn du Google AdMob dazu berechtigst dich zu rückzuverfolgen.";
+"NSCameraUsageDescription" = "Zum Scannen eines QR-Codes ist der Kamerazugriff erforderlich.";
