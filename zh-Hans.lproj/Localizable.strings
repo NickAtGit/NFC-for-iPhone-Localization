@@ -224,6 +224,9 @@
 "nfc_wifi_network_name" = "网络： ";
 "nfc_wifi_network_password" = "密码： ";
 
+"nfc_sms_recipient" = "收件人：";
+"nfc_sms_message" = "信息：";
+
 //QR
 "nfc_qr_title" = "QR阅读器";
 "nfc_qr_found_title" = "检测到QR码";

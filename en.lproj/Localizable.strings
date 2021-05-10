@@ -224,6 +224,9 @@
 "nfc_wifi_network_name" = "Network: ";
 "nfc_wifi_network_password" = "Password: ";
 
+"nfc_sms_recipient" = "Recipient:";
+"nfc_sms_message" = "Message:";
+
 // QR
 "nfc_qr_title" = "QR Reader";
 "nfc_qr_found_title" = "QR code detected";
