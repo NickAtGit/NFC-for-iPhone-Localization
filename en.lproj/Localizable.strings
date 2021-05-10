@@ -221,6 +221,9 @@
 "nfc_read_error_could_not_read_data" = "Error: Data could not be read. Please try again";
 "nfc_write_error_empty_ndef" = "Error: Empty NDEF message could not be written. Please try again";
 
+"nfc_wifi_network_name" = "Network: ";
+"nfc_wifi_network_password" = "Password: ";
+
 // QR
 "nfc_qr_title" = "QR Reader";
 "nfc_qr_found_title" = "QR code detected";

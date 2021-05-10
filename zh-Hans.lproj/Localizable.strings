@@ -221,6 +221,9 @@
 "nfc_read_error_could_not_read_data" = "错误: 无法读取数据。请再试一次";
 "nfc_write_error_empty_ndef" = "错误: 无法写入空的NDEF信息。请再试一次";
 
+"nfc_wifi_network_name" = "网络： ";
+"nfc_wifi_network_password" = "密码： ";
+
 //QR
 "nfc_qr_title" = "QR阅读器";
 "nfc_qr_found_title" = "检测到QR码";
