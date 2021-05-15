@@ -25,7 +25,7 @@
 "nfc_help_title" = "Hilfe";
 
 "nfc_delete_all_tags_title" = "Warnung!";
-"nfc_delete_all_tags_message" = "Du bist dabei ALLE gespeicherten Datensätze zu löschen. Hinweis: Du kannst einzeln löschen, indem du einen Datensatz von rechts nach links wischt.";
+"nfc_delete_all_tags_message" = "Du bist dabei ALLE gespeicherten Datensätze auf diesem Tab zu löschen. Hinweis: Du kannst einzeln löschen, indem du einen Datensatz von rechts nach links wischt.";
 "nfc_delete_all_tags_button_delete_title" = "Löschen";
 "nfc_delete_all_tags_button_cancel_title" = "Abbrechen";
 

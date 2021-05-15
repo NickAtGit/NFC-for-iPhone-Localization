@@ -25,7 +25,7 @@
 "nfc_help_title" = "Help";
 
 "nfc_delete_all_tags_title" = "Warning!";
-"nfc_delete_all_tags_message" = "You are about to delete ALL saved records. Note: You can delete individually by swiping a record from right to left.";
+"nfc_delete_all_tags_message" = "You are about to delete ALL saved entries on this tab. Hint: You can delete individually by swiping a record from right to left.";
 "nfc_delete_all_tags_button_delete_title" = "Delete";
 "nfc_delete_all_tags_button_cancel_title" = "Cancel";
 
