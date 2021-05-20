@@ -233,3 +233,10 @@
 "nfc_qr_create_writable_record_title" = "保存为NFC写入";
 "nfc_qr_copy_to_clipboard_title" = "复制到剪贴板";
 "nfc_qr_open_in_browser_title" = "在浏览器中打开";
+"nfc_qr_content_title" = "内容:";
+"nfc_qr_usertitle_title" = "标题:";
+"nfc_qr_usertitle_placeholder" = "键入标题";
+"nfc_qr_paste_image_button" = "Paste Image from Clipboard";
+"nfc_qr_hide_qr_code" = "隐藏QR码";
+"nfc_qr_show_qr_code" = "显示QR码";
+"nfc_qr_search" = "搜索";

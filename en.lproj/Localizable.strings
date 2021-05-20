@@ -233,3 +233,10 @@
 "nfc_qr_create_writable_record_title" = "Save for NFC writing";
 "nfc_qr_copy_to_clipboard_title" = "Copy to clipboard";
 "nfc_qr_open_in_browser_title" = "Open in browser";
+"nfc_qr_content_title" = "Content:";
+"nfc_qr_usertitle_title" = "Title:";
+"nfc_qr_usertitle_placeholder" = "Type in a title";
+"nfc_qr_paste_image_button" = "Paste Image from Clipboard";
+"nfc_qr_hide_qr_code" = "Hide QR Code";
+"nfc_qr_show_qr_code" = "Show QR Code";
+"nfc_qr_search" = "Search";
