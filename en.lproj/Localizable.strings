@@ -240,3 +240,5 @@
 "nfc_qr_hide_qr_code" = "Hide QR Code";
 "nfc_qr_show_qr_code" = "Show QR Code";
 "nfc_qr_search" = "Search";
+"nfc_deactivate_multitasking_error_title" = "Camera not activated";
+"nfc_deactivate_multitasking_error_message" = "Camera is not available in splitview or slideover. Please go back to fullscreen and try again.";

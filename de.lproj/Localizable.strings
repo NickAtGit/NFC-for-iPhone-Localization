@@ -240,3 +240,5 @@
 "nfc_qr_hide_qr_code" = "QR-Code ausblenden";
 "nfc_qr_show_qr_code" = "QR-Code anzeigen";
 "nfc_qr_search" = "Suchen";
+"nfc_deactivate_multitasking_error_title" = "Kamera nicht aktiviert";
+"nfc_deactivate_multitasking_error_message" = "Die Kamera ist in Splitview oder Slideover nicht verfügbar. Bitte gehe zurück in den Vollbildmodus und versuchen es erneut.";
