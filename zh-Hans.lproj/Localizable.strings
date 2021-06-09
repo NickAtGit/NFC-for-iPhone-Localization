@@ -242,3 +242,7 @@
 "nfc_qr_search" = "搜索";
 "nfc_deactivate_multitasking_error_title" = "相机未激活";
 "nfc_deactivate_multitasking_error_message" = "在分屏或滑屏中不能激活相机。请回到全屏状态再试一次。";
+"nfc_qr_wifi_connect" = "连接";
+"nfc_qr_add_contact" = "添加联系人";
+"nfc_qr_open_weblink" = "打开网络链接";
+"nfc_qr_search" = "在DuckDuckGo上搜索";

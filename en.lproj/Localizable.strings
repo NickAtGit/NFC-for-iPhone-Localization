@@ -242,3 +242,7 @@
 "nfc_qr_search" = "Search";
 "nfc_deactivate_multitasking_error_title" = "Camera not activated";
 "nfc_deactivate_multitasking_error_message" = "Camera is not available in splitview or slideover. Please go back to fullscreen and try again.";
+"nfc_qr_wifi_connect" = "Connect";
+"nfc_qr_add_contact" = "Add Contact";
+"nfc_qr_open_weblink" = "Open Weblink";
+"nfc_qr_search" = "Search on DuckDuckGo";
