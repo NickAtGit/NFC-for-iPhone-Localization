@@ -248,3 +248,4 @@
 "nfc_qr_search" = "Search on DuckDuckGo";
 "nfc_qr_pasteboard_empty_title" = "Clipboard empty";
 "nfc_qr_pasteboard_empty_message" = "To add a photo to this record please copy any photo (from a website or your photo library) and tap this button again.";
+"nfc_qr_copy_content_clipboard_button" = "Copy content to clipboard";

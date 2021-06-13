@@ -248,3 +248,4 @@
 "nfc_qr_search" = "Auf DuckDuckGo suchen";
 "nfc_qr_pasteboard_empty_title" = "Zwischenablage leer";
 "nfc_qr_pasteboard_empty_message" = "Um ein Foto zu diesem Datensatz hinzuzufügen, kopiere bitte ein beliebiges Foto (von einer Website oder der Fotobibliothek) und tippe erneut auf diesen Knopf.";
+"nfc_qr_copy_content_clipboard_button" = "Inhalt in die Zwischenablage kopieren";
