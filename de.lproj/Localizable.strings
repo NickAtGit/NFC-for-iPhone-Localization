@@ -230,7 +230,7 @@
 "nfc_sms_message" = "Nachricht:";
 
 // QR
-"nfc_qr_title" = "QR Leser";
+"nfc_qr_title" = "Code Leser";
 "nfc_qr_found_title" = "QR Code entdeckt";
 "nfc_qr_create_writable_record_title" = "Speichern für NFC schreiben";
 "nfc_qr_copy_to_clipboard_title" = "In die Zwischenablage kopieren";

@@ -230,7 +230,7 @@
 "nfc_sms_message" = "信息：";
 
 //QR
-"nfc_qr_title" = "QR阅读器";
+"nfc_qr_title" = "代码阅读器";
 "nfc_qr_found_title" = "检测到QR码";
 "nfc_qr_create_writable_record_title" = "保存为NFC写入";
 "nfc_qr_copy_to_clipboard_title" = "复制到剪贴板";
