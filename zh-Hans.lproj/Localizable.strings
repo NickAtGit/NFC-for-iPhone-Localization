@@ -246,3 +246,5 @@
 "nfc_qr_add_contact" = "添加联系人";
 "nfc_qr_open_weblink" = "打开网络链接";
 "nfc_qr_search" = "在DuckDuckGo上搜索";
+"nfc_qr_pasteboard_empty_title" = "剪贴板为空";
+"nfc_qr_pasteboard_empty_message" = "要在此记录中添加照片，请复制任何照片（来自网站或您的照片库）并再次点击此按钮";
