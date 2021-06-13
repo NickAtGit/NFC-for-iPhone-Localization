@@ -2,6 +2,8 @@
 
 "nfc_general_ok" = "Ok";
 "nfc_general_cancel" = "Cancel";
+"nfc_general_error" = "Error";
+"nfc_error_nfc_not_available" = "This device does not support NFC. Please use an iPhone 7 or later to use NFC. Please note: The iPhone 6s does have NFC modul built in, but it is not available to developers and can only be used for Apple Pay.";
 
 "nfc_reader_title" = "NFC Reader";
 "nfc_writer_title" = "NFC Writer";

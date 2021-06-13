@@ -2,6 +2,8 @@
 
 "nfc_general_ok" = "好的";
 "nfc_general_cancel" = "取消";
+"nfc_general_error" = "错误";
+"nfc_error_nfc_not_available" = "这个设备不支持NFC。请使用iPhone 7或更高版本来使用NFC。请注意。iPhone 6s确实内置了NFC模块，但它不对开发者开放，只能用于苹果支付";
 
 "nfc_reader_title" = "NFC读取";
 "nfc_writer_title" = "NFC写入";
