@@ -254,3 +254,7 @@
 "nfc_qr_copy_content_clipboard_button" = "Inhalt in die Zwischenablage kopieren";
 "nfc_qr_share_button" = "QR-Code teilen";
 "nfc_qr_save_for_widget_button" = "QR-Code für Widget speichern";
+"nfc_qr_save_qr_for_widget_title" = "QR-Code gespeichert";
+"nfc_qr_save_qr_for_widget_message" = "Der QR-Code wurde für Widgets abgespeichert. Du kannst diesen QR-Code nun im Widget anzeigen. Die gespeicherten QR-Codes findest du in den Einstellungen. Dort kannst du sie ansehen und löschen.";
+"nfc_qr_how_to_widget_link" = "https://support.apple.com/de-de/HT207122";
+"nfc_qr_show_me_how_to_widget_button" = "Widget Hilfe";

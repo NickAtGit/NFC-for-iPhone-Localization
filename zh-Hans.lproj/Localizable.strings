@@ -254,3 +254,7 @@
 "nfc_qr_copy_content_clipboard_button" = "复制内容到剪贴板";
 "nfc_qr_share_button" = "分享QR码";
 "nfc_qr_save_for_widget_button" = "保存小工具的QR码";
+"nfc_qr_save_qr_for_widget_title" = "保存的二维码";
+"nfc_qr_save_qr_for_widget_message" = "二维码已被保存为小工具。你现在可以在小部件中显示这个二维码。你可以在设置中找到已保存的QR码。你可以在那里查看和删除它们。";
+"nfc_qr_how_to_widget_link" = "https://support.apple.com/zh-cn/HT207122";
+"nfc_qr_show_me_how_to_widget_button" = "小工具帮助。";

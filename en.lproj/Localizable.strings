@@ -254,3 +254,7 @@
 "nfc_qr_copy_content_clipboard_button" = "Copy content to clipboard";
 "nfc_qr_share_button" = "Share QR-Code";
 "nfc_qr_save_for_widget_button" = "Save QR-Code for Widget";
+"nfc_qr_save_qr_for_widget_title" = "QR-Code saved";
+"nfc_qr_save_qr_for_widget_message" = "The QR code has been saved for widgets. You can now display this QR code in the widget. You can find the saved QR-Codes in the settings. There you can view and delete them.";
+"nfc_qr_how_to_widget_link" = "https://support.apple.com/en-us/HT207122";
+"nfc_qr_show_me_how_to_widget_button" = "Widget Help";
