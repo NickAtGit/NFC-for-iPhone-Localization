@@ -141,6 +141,9 @@
 "nfc_settings_privacy_policy_title" = "私隐政策";
 "nfc_settings_ad_consent_title" = "广告审批";
 
+"nfc_settings_widget_settings_section_header" = "小工具设置";
+"nfc_settings_widget_editing_title" = "管理QR码";
+
 //HELP
 "nfc_read_help_compatibility_mode_title" = "什么是兼容模式？";
 "nfc_read_help_compatibility_mode_description" = "当您启用兼容模式时，标签将以不同的方式读取。如果您在读取标签时遇到困难，请尝试兼容模式。";
@@ -238,9 +241,7 @@
 "nfc_qr_content_title" = "内容:";
 "nfc_qr_usertitle_title" = "标题:";
 "nfc_qr_usertitle_placeholder" = "键入标题";
-"nfc_qr_paste_image_button" = "Paste Image from Clipboard";
-"nfc_qr_hide_qr_code" = "隐藏QR码";
-"nfc_qr_show_qr_code" = "显示QR码";
+"nfc_qr_paste_image_button" = "从剪贴板粘贴图像";
 "nfc_qr_search" = "搜索";
 "nfc_deactivate_multitasking_error_title" = "相机未激活";
 "nfc_deactivate_multitasking_error_message" = "在分屏或滑屏中不能激活相机。请回到全屏状态再试一次。";
@@ -251,3 +252,5 @@
 "nfc_qr_pasteboard_empty_title" = "剪贴板为空";
 "nfc_qr_pasteboard_empty_message" = "要在此记录中添加照片，请复制任何照片（来自网站或您的照片库）并再次点击此按钮";
 "nfc_qr_copy_content_clipboard_button" = "复制内容到剪贴板";
+"nfc_qr_share_button" = "分享QR码";
+"nfc_qr_save_for_widget_button" = "保存小工具的QR码";

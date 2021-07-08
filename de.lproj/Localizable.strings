@@ -141,6 +141,9 @@
 "nfc_settings_privacy_policy_title" = "Datenschutzerklärung";
 "nfc_settings_ad_consent_title" = "Werbezustimmung";
 
+"nfc_settings_widget_settings_section_header" = "Widget Einstellungen";
+"nfc_settings_widget_editing_title" = "Verwalte QR-Codes";
+
 //HELP
 "nfc_read_help_compatibility_mode_title" = "Was ist der Kompatibilitätsmodus?";
 "nfc_read_help_compatibility_mode_description" = "Wenn du den Kompatibilitätsmodus aktivierst, wird der Tag auf eine andere Art und Weise gelesen. Wenn du Probleme beim Lesen eines Tags hast, dann versuche es mal mit dem Kompatibilitätsmodus.";
@@ -231,7 +234,7 @@
 
 // QR
 "nfc_qr_title" = "Code Lesen";
-"nfc_qr_found_title" = "QR Code entdeckt";
+"nfc_qr_found_title" = "Code entdeckt";
 "nfc_qr_create_writable_record_title" = "Speichern für NFC schreiben";
 "nfc_qr_copy_to_clipboard_title" = "In die Zwischenablage kopieren";
 "nfc_qr_open_in_browser_title" = "Im Browser öffnen";
@@ -239,8 +242,6 @@
 "nfc_qr_usertitle_title" = "Titel:";
 "nfc_qr_usertitle_placeholder" = "Gebe einen Titel ein";
 "nfc_qr_paste_image_button" = "Bild aus Zwischenablage einfügen";
-"nfc_qr_hide_qr_code" = "QR-Code ausblenden";
-"nfc_qr_show_qr_code" = "QR-Code anzeigen";
 "nfc_qr_search" = "Suchen";
 "nfc_deactivate_multitasking_error_title" = "Kamera nicht aktiviert";
 "nfc_deactivate_multitasking_error_message" = "Die Kamera ist in Splitview oder Slideover nicht verfügbar. Bitte gehe zurück in den Vollbildmodus und versuchen es erneut.";
@@ -251,3 +252,5 @@
 "nfc_qr_pasteboard_empty_title" = "Zwischenablage leer";
 "nfc_qr_pasteboard_empty_message" = "Um ein Foto zu diesem Datensatz hinzuzufügen, kopiere bitte ein beliebiges Foto (von einer Website oder der Fotobibliothek) und tippe erneut auf diesen Knopf.";
 "nfc_qr_copy_content_clipboard_button" = "Inhalt in die Zwischenablage kopieren";
+"nfc_qr_share_button" = "QR-Code teilen";
+"nfc_qr_save_for_widget_button" = "QR-Code für Widget speichern";
